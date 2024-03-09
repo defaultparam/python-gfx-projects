@@ -1,0 +1,3 @@
+pytube==15.0.0
+
+# You also need tkinter for the GUI make sure it is accessible in your venv
