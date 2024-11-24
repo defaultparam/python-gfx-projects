@@ -2,7 +2,6 @@
 - PyTube - Youtube videos downloader
 - GameMan - Includes games like rock paper scissor and tic tac toe (more to come soon)
 - PyCalcy - Yet another calculator app built with tkinter
-- PyConverter - A simple feet to meter converter, I built to test modules in Tkinter. (Ignore this one lol)
 
 ## PyTube
 - It is a YT video downloader whose primary function is to download YT videos for offline viewing. (It uses an already made package named PyTube, and is more of a custom port for minimal functionality)
@@ -29,6 +28,3 @@
 
 ## Calculator app
 - It is a simple GUI based app built with tkinter to let user perform mathematical operations supporting add, subtract, multiply, divide.
-
-### Other ideas to be implemented
-- HangMan game! - Add sounds!
